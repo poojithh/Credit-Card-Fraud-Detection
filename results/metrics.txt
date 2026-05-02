@@ -1,0 +1,170 @@
+
+===== XGBoost Evaluation =====
+ROC-AUC Score: 0.976339716387399
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00     56864
+           1       0.98      0.82      0.89        98
+
+    accuracy                           1.00     56962
+   macro avg       0.99      0.91      0.94     56962
+weighted avg       1.00      1.00      1.00     56962
+
+Confusion Matrix:
+[[56862     2]
+ [   18    80]]
+
+===== Bagging Classifier Evaluation =====
+ROC-AUC Score: 0.9628622499224789
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00     56864
+           1       0.94      0.81      0.87        98
+
+    accuracy                           1.00     56962
+   macro avg       0.97      0.90      0.93     56962
+weighted avg       1.00      1.00      1.00     56962
+
+Confusion Matrix:
+[[56859     5]
+ [   19    79]]
+
+===== XGBoost Evaluation =====
+ROC-AUC Score: 0.976339716387399
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00     56864
+           1       0.98      0.82      0.89        98
+
+    accuracy                           1.00     56962
+   macro avg       0.99      0.91      0.94     56962
+weighted avg       1.00      1.00      1.00     56962
+
+Confusion Matrix:
+[[56862     2]
+ [   18    80]]
+
+===== Bagging Classifier Evaluation =====
+ROC-AUC Score: 0.9628622499224789
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00     56864
+           1       0.94      0.81      0.87        98
+
+    accuracy                           1.00     56962
+   macro avg       0.97      0.90      0.93     56962
+weighted avg       1.00      1.00      1.00     56962
+
+Confusion Matrix:
+[[56859     5]
+ [   19    79]]
+
+===== XGBoost Evaluation =====
+ROC-AUC Score: 0.976339716387399
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00     56864
+           1       0.98      0.82      0.89        98
+
+    accuracy                           1.00     56962
+   macro avg       0.99      0.91      0.94     56962
+weighted avg       1.00      1.00      1.00     56962
+
+Confusion Matrix:
+[[56862     2]
+ [   18    80]]
+
+===== Bagging Classifier Evaluation =====
+ROC-AUC Score: 0.9628622499224789
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00     56864
+           1       0.94      0.81      0.87        98
+
+    accuracy                           1.00     56962
+   macro avg       0.97      0.90      0.93     56962
+weighted avg       1.00      1.00      1.00     56962
+
+Confusion Matrix:
+[[56859     5]
+ [   19    79]]
+
+===== XGBoost Evaluation =====
+ROC-AUC Score: 0.976339716387399
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00     56864
+           1       0.98      0.82      0.89        98
+
+    accuracy                           1.00     56962
+   macro avg       0.99      0.91      0.94     56962
+weighted avg       1.00      1.00      1.00     56962
+
+Confusion Matrix:
+[[56862     2]
+ [   18    80]]
+
+===== Bagging Classifier Evaluation =====
+ROC-AUC Score: 0.9628622499224789
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00     56864
+           1       0.94      0.81      0.87        98
+
+    accuracy                           1.00     56962
+   macro avg       0.97      0.90      0.93     56962
+weighted avg       1.00      1.00      1.00     56962
+
+Confusion Matrix:
+[[56859     5]
+ [   19    79]]
+
+===== XGBoost Evaluation =====
+ROC-AUC Score: 0.9830853134726034
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00     56864
+           1       0.98      0.81      0.88        98
+
+    accuracy                           1.00     56962
+   macro avg       0.99      0.90      0.94     56962
+weighted avg       1.00      1.00      1.00     56962
+
+Confusion Matrix:
+[[56862     2]
+ [   19    79]]
+
+===== Bagging Classifier Evaluation =====
+ROC-AUC Score: 0.9628622499224789
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00     56864
+           1       0.94      0.81      0.87        98
+
+    accuracy                           1.00     56962
+   macro avg       0.97      0.90      0.93     56962
+weighted avg       1.00      1.00      1.00     56962
+
+Confusion Matrix:
+[[56859     5]
+ [   19    79]]
